@@ -1,0 +1,618 @@
+,habitat,common,scientific
+0,marine,"Blue ring angelfish, annularis angelfish",Pomacanthus annularis
+1,marine,"Arabian angelfish, Asfur angelfish",Pomacanthus asfur
+2,marine,Bellus angelfish,Genicanthus bellus
+3,marine,Blue angelfish,Holacanthus bermudensis
+4,marine,Bluespotted angelfish,Chaetodontoplus caeruleopunctatus
+5,marine,Blueface angelfish,Pomacanthus xanthometopon
+6,marine,Cortez angelfish,Pomacanthus zonipectus
+7,marine,Emperor angelfish,Pomacanthus imperator
+8,marine,French angelfish,Pomacanthus paru
+9,marine,Gray angelfish,Pomacanthus arcuatus
+10,marine,Griffis angelfish,Apolemichthys griffisi
+11,marine,"Half-moon angelfish, Yellow bar angelfish",Pomacanthus maculosus
+12,marine,Koran angelfish,Pomacanthus semicirculatus
+13,marine,Majestic angelfish or blue girdled angelfish,Pomacanthus navarchus
+14,marine,Passer angelfish or King angelfish,Holacanthus passer
+15,marine,Personifer angelfish or Queensland yellowtail angelfish,Chaetodontoplus meridithii
+16,marine,Queen angelfish,Holacanthus ciliaris
+17,marine,Rock beauty,Holacanthus tricolor
+18,marine,Royal angelfish,Pygoplites diacanthus
+19,marine,Scribbled angelfish,Chaetodontoplus duboulayi
+20,marine,Japanese swallow angelfish,Genicanthus semifasciatus
+21,marine,Yellowtail angelfish,Apolemichthys xanthurus
+22,marine,Barred angelfish,Centropyge multifasciata
+23,marine,Bicolor angelfish,Centropyge bicolor
+24,marine,Blue Velvet Angelfish,Centropyge deborae
+25,marine,Brazilian flameback angelfish,Centropyge aurantonotus
+26,marine,Coral beauty angelfish,Centropyge bispinosa
+27,marine,Cherubfish or Pygmy angelfish,Centropyge argi
+28,marine,Eibli angelfish,Centropyge eibli
+29,marine,Flame angelfish,Centropyge loricula
+30,marine,Pearlscale angelfish,Centropyge vroliki
+31,marine,Herald's angelfish,Centropyge heraldi
+32,marine,Keyhole angelfish,Centropyge tibicen
+33,marine,Lemonpeel angelfish,Centropyge flavissima
+34,marine,Multicolor angelfish,Centropyge multicolor
+35,marine,Orange-back angelfish,Centropyge acanthops
+36,marine,Pacific pygmy angelfish,Centropyge flavicauda
+37,marine,Potter's angelfish,Centropyge potteri
+38,marine,Rusty angelfish,Centropyge ferrugata
+39,marine,Venustus angelfish,Centropyge venustus
+40,marine,Bartlett's anthias,Pseudanthias bartlettorum
+41,marine,Bicolor anthias,Pseudanthias bicolor
+42,marine,Cooper's anthias,Pseudanthias cooperi
+43,marine,Diadem anthias,Pseudanthias parvirostris
+44,marine,Orangehead anthias,Pseudanthias heemstrai
+45,marine,Redbar anthias,Pseudanthias rubrizonatus
+46,marine,"Lyretail anthias, Sea Goldie",Pseudanthias squamipinnis
+47,marine,Squareback anthias,Pseudanthias pleurotaenia
+48,marine,Stocky anthias,Pseudanthias hypselosoma
+49,marine,Threadfin anthias,Pseudanthias huchtii
+50,marine,African grouper,Cephalopholis taeniops
+51,marine,Vermillion seabass,Cephalopholis miniata
+52,marine,Blacktip grouper,Epinephelus fasciatus
+53,marine,Blue and Yellow grouper,Epinephelus flavocaeruleus
+54,marine,Blue dot grouper,Cephalopholis argus
+55,marine,Blue line grouper,Cephalopholis formosa
+56,marine,Chalk bass,Serranus tortugarum
+57,marine,Coney grouper,Cephalopholis fulva
+58,marine,Golden grouper,Mycteroperca rosacea
+59,marine,Golden stripe soapfish,Grammistes sexlineatus
+60,marine,Harlequin bass,Serranus tigrinus
+61,marine,Leaflip grouper,Pogonoperca punctata
+62,marine,Marine beta,Calloplesiops altivelis
+63,marine,Pacific graysby,Cephalopholis panamensis
+64,marine,Panther grouper,Cromileptes altivelis
+65,marine,Painted comber,Serranus scriba
+66,marine,Polleni grouper,Cephalopholis polleni
+67,marine,Red flag grouper,Cephalopholis urodeta
+68,marine,Lyretail grouper,Variola louti
+69,marine,Saddle grouper,Plectropomus laevis
+70,marine,Spotted grouper,Epinephelus summana
+71,marine,Strawberry grouper,Cephalopholis spiloparaea
+72,marine,V tail grouper,Cephalopholis urodelus
+73,marine,Black cap gramma,Gramma melacara
+74,marine,Blue assessor,Assessor macneilli
+75,marine,Royal gramma,Gramma loreto
+76,marine,Brazilian gramma,Gramma brasiliensis
+77,marine,Yellow assessor,Assessor flavissimus
+78,marine,Orbiculate batfish,Platax orbicularis
+79,marine,Dusky batfish,Platax pinnatus
+80,marine,Teira batfish,Platax teira
+81,marine,Spinyhead blenny,Acanthemblemaria spinosa
+82,marine,Bicolor blenny,Ecsenius bicolor
+83,marine,Black combtooth blenny,Ecsenius namiyei
+84,marine,Blackline fang blenny,Meiacanthus nigrolineatus
+85,marine,Black sailfin blenny,Atrosalarias fuscus
+86,marine,Blue & gold blenny,Enchelyurus flavipes
+87,marine,Bundoon blenny,Meiacanthus bundoon
+88,marine,Canary fang blenny,Meiacanthus oualanensis
+89,marine,Diamond blenny,Malacoctenus boehlkei
+90,marine,Ember blenny,Cirripectes stigmaticus
+91,marine,Harptail blenny,Meiacanthus mossambicus
+92,marine,Lawnmower blenny,Salarias fasciatus
+93,marine,Linear blenny,Ecsenius lineatus
+94,marine,Midas blenny,Ecsenius midas
+95,marine,Molly Miller blenny,Scartella cristata
+96,marine,One spot blenny,Crossosalarias macrospilus
+97,marine,Red lip blenny,Ophioblennius atlanticus
+98,marine,Red Sea mimic blenny,Ecsenius gravieri
+99,marine,Sailfin blenny,Emblemaria pandionis
+100,marine,Segmented sailfin blenny,Salarias segmentatus
+101,marine,Starry blenny,Salarias ramosus
+102,marine,Striped blenny,Meiacanthus grammistes
+103,marine,Tail spot blenny,Ecsenius stigmatura
+104,marine,Two-spot blenny,Ecsenius bimaculatus
+105,marine,Engineer goby,Pholidichthys leucotaenia
+106,marine,Golden puffer,Arothron meleagris
+107,marine,Hawaiian blue puffer,Canthigaster papua
+108,marine,Hawaiian saddle puffer,Canthigaster coronata
+109,marine,Hawaiian spotted puffer,Canthigaster jactator
+110,marine,Helmet cowfish,Tetrosomus gibbosus
+111,marine,Immaculate puffer,Arothron immaculatus
+112,marine,Longhorn cowfish,Lactoria cornuta
+113,marine,Scribbled boxfish,Ostracion solorensis
+114,marine,Dogface pufferfish,Arothron nigropunctatus
+115,marine,Map puffer,Arothron mappa
+116,marine,Porcupine pufferfish,Diodon holocanthus
+117,marine,Spotfin porcupinefish,Diodon hystrix
+118,marine,Sharpnose pufferfish,Canthigaster rostrata
+119,marine,Star puffer,Arothron stellatus
+120,marine,Stars and stripes puffer,Arothron hispidus
+121,marine,Striped dogface puffer,Arothron manilensis
+122,marine,Valentini pufferfish,Canthigaster valentini
+123,marine,Whitebelly puffer,Canthigaster bennetti
+124,marine,Yellow boxfish,Ostracion cubicus
+125,marine,Copperband butterflyfish,Chelmon rostratus
+126,marine,Schooling bannerfish,Heniochus diphreutes
+127,marine,Longnose butterflyfish,Forcipiger flavissimus
+128,marine,Raccoon butterflyfish,Chaetodon lunula
+129,marine,Redback butterflyfish,Chaetodon paucifasciatus
+130,marine,Merten's butterflyfish,Chaetodon mertensii
+131,marine,Teardrop butterflyfish,Chaetodon unimaculatus
+132,marine,Latticed butterflyfish,Chaetodon rafflesii
+133,marine,Pacific double saddle butterflyfish,Chaetodon ulietensis
+134,marine,Sickle butterflyfish,Chaetodon falcula
+135,marine,Threadfin butterflyfish,Chaetodon auriga
+136,marine,Tinker's butterflyfish,Chaetodon tinkeri
+137,marine,Masked butterflyfish,Chaetodon semilarvatus
+138,marine,Reef butterflyfish,Chaetodon sedentarius
+139,marine,Four-eyed butterflyfish,Chaetodon capistratus
+140,marine,Banded butterflyfish,Chaetodon striatus
+141,marine,Saddleback butterflyfish,Chaetodon ephippium
+142,marine,Fragile cardinalfish,Apogon fragilis
+143,marine,Banggai cardinal,Pterapogon kauderni
+144,marine,Blackstripe cardinalfish,Apogon nigrofasciatus
+145,marine,Bluebarred cardinalfish,Apogon flores
+146,marine,Bluestreak cardinalfish,Apogon leptacanthus
+147,marine,Flamefish,Apogon maculatus
+148,marine,Frostfin cardinalfish,Apogon hoeveni
+149,marine,Gilbert's cardinalfish,Apogon gilberti
+150,marine,Girdled cardinalfish,Archamia zosterophora
+151,marine,Orange-striped cardinalfish,Ostorhinchus cyanosoma
+152,marine,Orbic cardinalfish,Sphaeramia orbicularis
+153,marine,Pajama cardinalfish,Sphaeramia nematoptera
+154,marine,Ochre-striped cardinalfish,Ostorhinchus compressus
+155,marine,Ringtailed cardinalfish,Ostorhinchus aureus
+156,marine,Ambon chromis,Chromis amboinensis
+157,marine,Barrier reef chromis,Chromis nitida
+158,marine,Black and gold chromis,Neoglyphidodon nigroris
+159,marine,Black bar chromis,Chromis retrofasciata
+160,marine,Blue chromis,Chromis cyanea
+161,marine,Damselfish,Chromis chromis
+162,marine,Green chromis,Chromis viridis
+163,marine,Half and half chromis,Chromis iomelas
+164,marine,Limbaughi chromis,Chromis limbaughi
+165,marine,Lined chromis,Chromis lineata
+166,marine,Paletail chromis,Chromis xanthura
+167,marine,Black-axil chromis,Chromis atripectoralis
+168,marine,Spiny chromis,Acanthochromis polyacanthus
+169,marine,Sunshine chromis,Chromis insolatus
+170,marine,Yellowspotted chromis,Chromis flavomaculata
+171,marine,Black and white chromis,Chromis margaritifer
+172,marine,Cinnamon anemonefish,Amphiprion melanopus
+173,marine,Clarkii anemonefish,Amphiprion clarkii
+174,marine,Ocellaris,Amphiprion ocellaris
+175,marine,Maroon clownfish,Premnas biaculeatus
+176,marine,True Percula,Amphiprion percula
+177,marine,Pink skunk anemonefish,Amphiprion perideraion
+178,marine,Tomato clownfish,Amphiprion frenatus
+179,marine,Saddleback anemonefish,Amphiprion polymnus
+180,marine,Sebae anemonefish,Amphiprion sebae
+181,marine,Ambon damsel,Pomacentrus amboinensis
+182,marine,Azure damsel,Chrysiptera hemicyanea
+183,marine,Black and gold damsel,Neoglyphidodon nigroris
+184,marine,Blackmargined damsel,Pomacentrus nigromarginatus
+185,marine,"Blue damsel, Orangetail damsel",Chrysiptera cyanea
+186,marine,Blue and gold damsel,Pomacentrus coelestis
+187,marine,Blue velvet damsel,Paraglyphidodon oxyodon
+188,marine,Blueback damsel,Pomacentrus simsiang
+189,marine,"Blueline demoiselle, Yellowfin demoiselle",Chrysiptera caeruleolineata
+190,marine,Bluefin damsel,Neoglyphidodon melas
+191,marine,Caerulean damsel,Pomacentrus caeruleus
+192,marine,Canary deep water damsel,Chrysiptera galba
+193,marine,Cloudy damsel,Dascyllus carneus
+194,marine,Cross' damsel,Neoglyphidodon crossi
+195,marine,Domino damsel,Dascyllus trimaculatus
+196,marine,Fiji blue devil damsel,Chrysiptera taupou
+197,marine,Four stripe damsel,Dascyllus melanurus
+198,marine,Garibaldi damsel,Hypsypops rubicunda
+199,marine,Honey head damsel,Dischistodus prosopotaenia
+200,marine,Hawaiian Dascyllus,Dascyllus albisella
+201,marine,Jewel damsel,Microspathodon chrysurus
+202,marine,King demoiselle,Chrysiptera rex
+203,marine,Lemon damsel,Pomacentrus moluccensis
+204,marine,Longfin gregory,Stegastes diencaeus
+205,marine,Marginated damsel,Dascyllus marginatus
+206,marine,Neon damsel,Pomacentrus alleni
+207,marine,Ocellate damsel,Pomacentrus vaiuli
+208,marine,Pavo damsel,Pomacentrus pavo
+209,marine,Pink Smith damsel,Pomacentrus smithi
+210,marine,Rolland's demoiselle,Chrysiptera rollandi
+211,marine,Sergeant major damsel,Abudefduf saxatilis
+212,marine,Speckled damsel,Pomacentrus bankanensis
+213,marine,Springer's damsel,Chrysiptera springeri
+214,marine,Stark's damsel,Chrysiptera starcki
+215,marine,Talbots damsel,Chrysiptera talboti
+216,marine,Three stripe damsel,Dascyllus aruanus
+217,marine,Three Spot damsel,Stegastes planifrons
+218,marine,Tuxedo damsel,Chrysiptera tricincta
+219,marine,Two stripe damsel,Dascyllus reticulatus
+220,marine,Yellow damsel,Amblyglyphidodon aureus
+221,marine,Yellow threespot Dascyllus,Dascyllus auripinnis
+222,marine,Yellowbelly damsel,Pomacentrus auriventris
+223,marine,Yellowtail Dascyllus,Dascyllus flavicaudus
+224,marine,Yellowtail damsel,Chrysiptera parasema
+225,marine,Yellowtail demoiselle,Neopomacentrus azysron
+226,marine,Blue gudgeon dartfish,Ptereleotris hanae
+227,marine,Fire fish,Nemateleotris magnifica
+228,marine,Purple fire fish,Nemateleotris decora
+229,marine,Scissortail dartfish,Ptereleotris evides
+230,marine,Zebra barred dartfish,Ptereleotris zebra
+231,marine,Mandarinfish,Synchiropus splendidus
+232,marine,Starry dragonet,Synchiropus stellatus
+233,marine,Ocellated dragonet,Synchiropus ocellatus
+234,marine,Spotted mandarin,Synchiropus picturatus
+235,marine,Banded snake eel,Myrichthys colubrinus
+236,marine,Banded eel,Echidna polyzona
+237,marine,Black edge moray eel,Gymnothorax saxicola
+238,marine,"Blue ribbon eel, black ribbon eel",Rhinomuraena quaesita
+239,marine,Chainlink moray eel,Echidna catenata
+240,marine,Dragon moray eel,Enchelycore pardalis
+241,marine,Golden dwarf eel,Gymnothorax melatremus
+242,marine,Golden moray eel,Gymnothorax miliaris
+243,marine,Green moray eel,Gymnothorax funebris
+244,marine,Jeweled moray eel,Muraena lentiginosa
+245,marine,Kidako moray eel,Gymnothorax kidako
+246,marine,Peppered moray,Gymnothorax picta
+247,marine,Snowflake eel,Echidna nebulosa
+248,marine,Spotted garden-eel,Heteroconger hassi
+249,marine,Spotted Snake eel,Myrichthys maculosus
+250,marine,"Tessalata eel, or laced moray",Gymnothorax favagineus
+251,marine,Yellowhead moray eel,Gymnothorax fimbriatus
+252,marine,Yellow mouth moray eel,Gymnothorax nudivomer
+253,marine,Whitemouth moray eel,Gymnothorax meleagris
+254,marine,Zebra moray,Gymnomuraena zebra
+255,marine,Clown filefish,Cantherhines dumerili
+256,marine,Colored filefish,Pervagor melanocephalus
+257,marine,Fantail orange filefish,Pervagor spilosoma
+258,marine,Horseshoe filefish,Meuschenia hippocrepis
+259,marine,Japanese filefish,Paramonacanthus japonicus
+260,marine,Mimic filefish,Paraluteres prionurus
+261,marine,Orange spotted filefish,Oxymonacanthus longirostris
+262,marine,Tassle filefish,Chaetodermis penicilligerus
+263,marine,Peacock flounder,Bothus lunatus
+264,marine,Flowery (Indo-Pacific peacock) flounder,Bothus mancus
+265,marine,Banded sole,Soleichthys heterorhinos
+266,marine,Longlure frogfish,Antennarius multiocellatus
+267,marine,Giant anglerfish,Antennarius commerson
+268,marine,Sargassum frogfish,Histrio histrio
+269,marine,Striated frogfish,Antennarius striatus
+270,marine,Wartskin frogfish,Antennarius maculatus
+271,marine,Bicolor goatfish,Parupeneus barberinoides
+272,marine,Goldsaddle goatfish,Parupeneus cyclostomus
+273,marine,Manybar goatfish,Parupeneus multifasciatus
+274,marine,Yellow back goatfish,Parupeneus barberinus
+275,marine,Black barred convict goby,Priolepis nocturna
+276,marine,Black clown goby,Gobiodon acicularis
+277,marine,Bluespotted watchman goby,Cryptocentrus pavoninoides
+278,marine,Catalina goby,Lythrypnus dalli
+279,marine,Cave transparent goby,Coryphopterus glaucofraenum
+280,marine,Citron clown goby,Gobiodon citrinus
+281,marine,Court jester goby,Amblygobius rainfordi
+282,marine,Diagonal bar prawn goby,Amblyeleotris diagonalis
+283,marine,Diamond watchman goby,Valenciennea puellaris
+284,marine,Dracula goby,Stonogobiops dracula
+285,marine,Gold neon eviota goby,Eviota pellucida
+286,marine,Green banded goby,Elacatinus multifasciatus
+287,marine,Green clown goby,Gobiodon atrangulatus
+288,marine,Hector's goby,Amblygobius hectori
+289,marine,Hi fin red banded goby,Stonogobiops nematodes
+290,marine,Neon goby,Elacatinus oceanops
+291,marine,Orange marked goby,Amblygobius decussatus
+292,marine,Orange spotted goby,Amblyeleotris guttata
+293,marine,Orange stripe prawn goby,Amblyeleotris randalli
+294,marine,Pinkspotted shrimp goby,Gobius melanopus
+295,marine,Pinkbar goby,Cryptocentrus aurora
+296,marine,Red head goby,Elacatinus puncticulatus
+297,marine,Red striped goby,Trimma cana
+298,marine,Sleeper banded goby,Amblygobius phalaena
+299,marine,Sleeper blue dot goby,Valenciennea sexguttata
+300,marine,Sleeper gold head goby,Valenciennea strigata
+301,marine,Sleeper railway glider goby,Valenciennea helsdingenii
+302,marine,Sleeper striped goby,Valenciennea longipinnis
+303,marine,Steinitz goby,Amblyeleotris steinitzi
+304,marine,Tangaroa goby,Ctenogobiops tangaroai
+305,marine,Tiger watchman goby,Valenciennea wardii
+306,marine,Two spot goby,Signigobius biocellatus
+307,marine,Violet goby,Gobioides broussonnetii
+308,marine,Wheeler's watchman goby,Amblyeleotris wheeleri
+309,marine,Yellow watchman goby,Cryptocentrus cinctus
+310,marine,Yasha goby,Stonogobiops yasha
+311,marine,Yellow clown goby,Gobiodon okinawae
+312,marine,Yellow priolepis goby,Priolepis aureoviridis
+313,marine,Yellow stripe clingfish,Diademichthys lineatus
+314,marine,Flaming Prawn Goby,Discordipinna griessingeri
+315,marine,Crescent banded grunt,Terapon jarbua
+316,marine,Dogfish prientalis,Plectorhinchus lineatus
+317,marine,Oriental sweetlips,Plectorhinchus orientalis
+318,marine,Painted sweetlips,Plectorhinchus picus
+319,marine,Porkfish,Anisotremus virginicus
+320,marine,Spotted sweetlips,Plectorhinchus chaetodonoides
+321,marine,Striped sweetlips,Plectorhinchus diagrammus
+322,marine,Twostriped sweetlips,Plectorhinchus albovittatus
+323,marine,Barred hamlet,Hypoplectrus puella
+324,marine,Black hamlet,Hypoplectrus nigricans
+325,marine,Blue hamlet,Hypoplectrus gemma
+326,marine,Butter hamlet,Hypoplectrus unicolor
+327,marine,Golden hamlet,Hypoplectrus gummigutta
+328,marine,Indigo hamlet,Hypoplectrus indigo
+329,marine,Shy hamlet,Hypoplectrus guttavarius
+330,marine,Arc eye hawkfish,Paracirrhites arcatus
+331,marine,Blood red hawkfish,Cirrhitichthys fasciatus
+332,marine,Coral hawkfish,Cirrhitichthys oxycephalus
+333,marine,Falco's hawkfish,Cirrhitichthys falco
+334,marine,Flame hawkfish,Neocirrhitus armatus
+335,marine,Freckled hawkfish,Paracirrhites forsteri
+336,marine,Golden hawkfish,Paracirrhites xanthus
+337,marine,Longnose hawkfish,Oxycirrhites typus
+338,marine,Lyretail hawkfish,Cirrhitichthys polyactis
+339,marine,Redspotted hawkfish,Amblycirrhitus pinos
+340,marine,Spotted hawkfish,Cirrhitichthys aprinus
+341,marine,Whitespot hawkfish,Paracirrhites hemistictus
+342,marine,Yellow hawkfish,Cirrhitichthys aureus
+343,marine,Coral hogfish,Bodianus mesothorax
+344,marine,Cuban hogfish,Bodianus pulchellus
+345,marine,Hawaiian hogfish,Bodianus bilunulatus
+346,marine,Red diana hogfish,Bodianus diana
+347,marine,Spanish hogfish,Bodianus rufus
+348,marine,Twin spot hogfish,Bodianus bimaculatus
+349,marine,Moorish idol,Zanclus cornutus
+350,marine,Pilot fish,Naucrates ductor
+351,marine,Golden trevally,Gnathanodon speciosus
+352,marine,Indian threadfin,Alectis indicus
+353,marine,Threadfin lookdown,Selene vomer
+354,marine,Black cap jawfish,Opistognathus lonchurus
+355,marine,Blue dot jawfish,Opistognathus rosenblatti
+356,marine,Dusky jawfish,Opistognathus whitehurstii
+357,marine,Yellowhead jawfish,Opistognathus aurifrons
+358,marine,Antenneta lionfish,Pterois antennata
+359,marine,Blackfoot lionfish,Parapterois heterura
+360,marine,Devil lionfish,Pterois mombasae
+361,marine,Fu Man Chu lionfish,Dendrochirus biocellatus
+362,marine,Fuzzy dwarf lionfish,Dendrochirus brachypterus
+363,marine,Green lionfish,Dendrochirus barberi
+364,marine,Radiata lionfish,Pterois radiata
+365,marine,Russell's lionfish,Pterois russelii
+366,marine,Volitan lionfish,Pterois volitans
+367,marine,Zebra lionfish,Dendrochirus zebra
+368,marine,Bicolor parrotfish,Cetoscarus bicolor
+369,marine,Princess parrotfish,Scarus taeniopterus
+370,marine,Banded pipefish,Doryrhamphus dactyliophorus
+371,marine,Dragonface pipefish,Corythoichthys haematopterus
+372,marine,Janss' pipefish,Doryrhamphus janssi
+373,marine,Yellow multibanded pipefish,Doryrhamphus pessuliferus
+374,marine,Allen's dottyback,Manonichthys alleni
+375,marine,Australian multicolor pseudochromis,Ogilbyina novaehollandiae
+376,marine,Bicolor pseudochromis,Pseudochromis paccagnellae
+377,marine,Blue flavivertex pseudochromis,Pseudochromis flavivertex
+378,marine,Bluelined dottyback,Pseudochromis cyanotaenia
+379,marine,Brown dottyback or yellow pseudochromis,Pseudochromis aureus
+380,marine,Cherry dottyback,Pholidochromis cerasina
+381,marine,Dilectus dottyback,Pseudochromis dilectus
+382,marine,Dusky dottyback,Pseudochromis fuscus
+383,marine,Elongate dottyback,Pseudochromis elongatus
+384,marine,Firetail dottyback,Pseudochromis flammicauda
+385,marine,Fridmani pseudochromis or orchid dottyback,Pseudochromis fridmani
+386,marine,Longfin dottyback,Manonichthys polynemus
+387,marine,Lyretail dottyback,Pseudochromis steenei
+388,marine,"Neon pseudochromis, Arabian dottyback or neon dottyback",Pseudochromis aldabraensis
+389,marine,Oblique-lined dottyback,Cypho purpurascens
+390,marine,Orangetail dottyback,Pseudochromis coccinicauda
+391,marine,Purple stripe pseudochromis or diadema basslet,Pseudochromis diadema
+392,marine,Red dottyback,Labracinus cyclophthalmus
+393,marine,Sailfin pseudochromis,Pseudochromis veliferus
+394,marine,Splendid pseudochromis,Pseudochromis splendens
+395,marine,Springeri pseudochromis,Pseudochromis springeri
+396,marine,Striped dottyback,Pseudochromis sankeyi
+397,marine,Strawberry pseudochromis or purple pseudochromis,Pseudochromis porphyreus
+398,marine,Twolined dottyback,Pseudochromis bitaeniatus
+399,marine,Carpet eel-blenny,Congrogadus subducens
+400,marine,Bicolor Foxface,Siganus uspi
+401,marine,Blue-Lined Rabbitfish,Siganus doliatus
+402,marine,Foxface,Siganus vulpinus
+403,marine,Magnificent foxface,Siganus magnificus
+404,marine,One Spot Foxface,Siganus unimaculatus
+405,marine,Yellow Blotch Rabbitfish,Siganus guttatus
+406,marine,Round stingray,Urobatis halleri
+407,marine,Cortez round stingray,Urobatis maculatus
+408,marine,Bullseye round stingray,Urobatis concentricus
+409,marine,Leopard round stingray,Urobatis pardalis
+410,marine,Yellow stingray,Urobatis jamaicensis
+411,marine,Chilean round ray,Urotrygon chilensis
+412,marine,Bluespotted ribbontail ray,Taeniura lymma
+413,marine,Bluespotted stingray,Neotrygon kuhlii
+414,marine,Southern stingray,Hypanus americanus
+415,marine,Atlantic stingray,Hypanus sabinus
+416,marine,Bluntnose Stingray,Hypanus say
+417,marine,Reticulated whiptail ray,Himantura uarnak
+418,marine,Red stingray,Hemitrygon akajei
+419,marine,Cowtail stingray,Pastinachus sephen
+420,marine,Common stingaree,Trygonoptera testacea
+421,marine,Striped stingaree,Trygonoptera ovalis
+422,marine,Spotted stingaree,Urolophus gigas
+423,marine,Shovelnose guitarfish,Pseudobatos productus
+424,marine,Atlantic guitarfish,Pseudobatos lentiginosus
+425,marine,Speckled guitarfish,Pseudobatos glaucostigmus
+426,marine,Eastern shovelnose ray,Aptychotrema rostrata
+427,marine,Giant shovelnose ray,Glaucostegus typus
+428,marine,Bowmouth guitarfish,Rhina ancylostoma
+429,marine,Eastern fiddler ray,Trygonorrhina fasciata
+430,marine,Thornback ray,Platyrhinoidis triseriata
+431,marine,Shortnose guitarfish,Zapteryx brevirostris
+432,marine,Banded guitarfish,Zapteryx exasperata
+433,marine,Southern banded guitarfish,Zapteryx xyster
+434,marine,Leopard torpedo ray,Torpedo panthera
+435,marine,Marbled electric ray,Torpedo marmorata
+436,marine,Marbled electric ray,Torpedo sinuspersici
+437,marine,Bullseye electric ray,Diplobatis ommata
+438,marine,Lesser electric ray,Narcine bancroftii
+439,marine,Brown numbfish,Narcine brunnea
+440,marine,Unknown electric ray,Narcine barinnus
+441,marine,Elat electric ray,Heteronarce bentuviai
+442,marine,Spiny butterfly ray,Gymnura altavela
+443,marine,Smooth butterfly ray,Gymnura micrura
+444,marine,California butterfly ray,Gymnura marmorata
+445,marine,Bat ray,Myliobatis californica
+446,marine,Bullnose eagle ray,Myliobatis freminvillei
+447,marine,Southern eagle ray,Myliobatis goodei
+448,marine,Spotted eagle ray,Aetobatus narinari
+449,marine,Cownose ray,Rhinoptera bonasus
+450,marine,Ambon scorpionfish,Pteroidichthys amboinensis
+451,marine,Decoy scorpionfish,Iracundus signifer
+452,marine,Eschmeyer's scorpionfish,Rhinopias eschmeyeri
+453,marine,Flasher scorpionfish,Scorpaenopsis macrochir
+454,marine,Lacey scorpionfish,Rhinopias aphanes
+455,marine,Leaf scorpionfish,Taenianotus triacanthus
+456,marine,Mozambique scorpionfish,Parascorpaena mossambica
+457,marine,Papuan scorpionfish,Scorpaenopsis papuensis
+458,marine,Poss's scorpionfish,Scorpaenopsis possi
+459,marine,Rogue scorpion,Amblyapistus taenianotus
+460,marine,Sea goblin,Inimicus didactylus
+461,marine,Stone fish,Synanceja verrucosa
+462,marine,Weedy scorpionfish,Rhinopias frondosa
+463,marine,Yellowspotted scorpionfish,Sebastapistes cyanostigma
+464,marine,Brazilian seahorse,Hippocampus reidi
+465,marine,Spotted seahorse,Hippocampus kuda
+466,marine,Great seahorse,Hippocampus kelloggi
+467,marine,Pot-bellied seahorse,Hippocampus abdominalis
+468,marine,Pygmy seahorse,Hippocampus bargibanti
+469,marine,Short-snouted seahorse,Hippocampus breviceps
+470,marine,Tiger tail seahorse,Hippocampus comes
+471,marine,Lined Seahorse,Hippocampus erectus
+472,marine,White's Seahorse,Hippocampus whitei
+473,marine,Dwarf Seahorse,Hippocampus zosterae
+474,marine,Thorny Seahorse,Hippocampus histrix
+475,marine,Big eye soldierfish,Myripristis vittata
+476,marine,Blackbar soldierfish,Myripristis jacobus
+477,marine,Glass eye squirrelfish,Heteropriacanthus cruentatus
+478,marine,Popeye catalufa soldierfish,Pristigenys serrula
+479,marine,Scarlet squirrelfish,Sargocentron tiere
+480,marine,Striped squirrelfish,Sargocentron xantherythrum
+481,marine,Whitespotted bamboo shark,Chiloscyllium plagiosum
+482,marine,Brownbanded bamboo shark,Chiloscyllium punctatum
+483,marine,Epaulette shark,Hemiscyllium ocellatum
+484,marine,Horn shark,Heterodontus francisci
+485,marine,Port Jackson shark,Heterodontus portusjacksoni
+486,marine,Coral catshark,Atelomycterus marmoratus
+487,marine,Marbled catshark,Atelomycterus macleayi
+488,marine,Nurse shark,Ginglymostoma cirratum
+489,marine,Zebra shark,Stegostoma fasciatum
+490,marine,Leopard shark,Triakis semifasciata
+491,marine,Banded houndshark,Triakis scyllium
+492,marine,Gray smooth-hound,Mustelus californicus
+493,marine,Brown smooth-hound,Mustelus henlei
+494,marine,Tasselled wobbegong,Eucrossorhinus dasypogon
+495,marine,Japanese wobbegong,Orectolobus japonicus
+496,marine,Ornate wobbegong,Orectolobus ornatus
+497,marine,Spotted wobbegong,Orectolobus maculatus
+498,marine,Northern wobbegong,Orectolobus wardi
+499,marine,Blacktip reef shark,Carcharhinus melanopterus
+500,marine,Whitetip reef shark,Triaenodon obesus
+501,marine,Bonnethead shark,Sphyrna tiburo
+502,marine,Shark egg case,Selachimorpha sp. Egg case (Chondrichthyes)
+503,marine,"Black snapper, black and white snapper",Macolor niger
+504,marine,Emperor snapper,Lutjanus sebae
+505,marine,Threadfin snapper,Symphorichthys spilurus
+506,marine,Yellowback fusilier,Caesio xanthonota
+507,marine,"Yellow-Banded Snapper, Hussar Emperor Snapper",Lutjanus adetii
+508,marine,Achilles tang,Acanthurus achilles
+509,marine,Atlantic blue tang,Acanthurus coeruleus
+510,marine,Blue eyed tang,Ctenochaetus binotatus
+511,marine,Blue lined surgeonfish,Acanthurus nigroris
+512,marine,Bristletooth tang,Ctenochaetus striatus
+513,marine,Chevron tang,Ctenochaetus hawaiiensis
+514,marine,Clown tang,Acanthurus lineatus
+515,marine,Convict tang,Acanthurus triostegus
+516,marine,Desjardini tang,Zebrasoma desjardinii
+517,marine,Doctorfish,Acanthurus chirurgus
+518,marine,Dussumieri tang,Acanthurus dussumieri
+519,marine,Eibli mimic tang,Acanthurus tristis
+520,marine,Gold rim tang,Acanthurus nigricans
+521,marine,Regal / Hippo tang,Paracanthurus hepatus
+522,marine,Kole tang,Ctenochaetus strigosus
+523,marine,Lavender tang,Acanthurus nigrofuscus
+524,marine,Lopezi tang,Naso lopezi
+525,marine,"Mimic tang, Chocolate tang",Acanthurus pyroferus
+526,marine,"Naso tang, blonde naso tang",Naso lituratus
+527,marine,Orange shoulder tang,Acanthurus olivaceus
+528,marine,Powder blue tang,Acanthurus leucosternon
+529,marine,Powder brown tang,Acanthurus japonicus
+530,marine,Purple tang,Zebrasoma xanthurum
+531,marine,Sailfin tang,Zebrasoma veliferum
+532,marine,Scopas tang,Zebrasoma scopas
+533,marine,Sohal tang,Acanthurus sohal
+534,marine,Tennent tang,Acanthurus tennenti
+535,marine,Thompson's surgeonfish,Acanthurus thompsoni
+536,marine,Tomini tang,Ctenocheatus tominiensis
+537,marine,Unicorn tang,Naso unicornis
+538,marine,Vlamingi tang,Naso vlamingii
+539,marine,White freckled surgeon,Acanthurus maculiceps
+540,marine,Yellow tang,Zebrasoma flavescens
+541,marine,Yellowfin surgeon,Acanthurus xanthopterus
+542,marine,Blue-headed tilefish,Hoplolatilus starcki
+543,marine,Purple tilefish,Hoplolatilus purpureus
+544,marine,Yellow tilefish,Hoplolatilus luteus
+545,marine,Redlined tilefish,Hoplolatilus marcosi
+546,marine,Assasi trigger,Rhinecanthus assasi
+547,marine,Blue jaw trigger / blue throat trigger,Xanthichthys auromarginatus
+548,marine,Blue line trigger,Pseudobalistes fuscus
+549,marine,Bursa trigger,Rhinecanthus verrucosus
+550,marine,Clown trigger,Balistoides conspicillum
+551,marine,Crosshatch trigger,Xanthichthys mento
+552,marine,Goldenback trigger,Xanthichthys caeruleolineatus
+553,marine,Golden heart trigger,Balistes punctatus
+554,marine,Halfmoon trigger,Sufflamen chrysopterum
+555,marine,Hawaiian black trigger,Melichthys niger
+556,marine,Lei trigger,Sufflamen bursa
+557,marine,Indian black trigger,Melichthys indicus
+558,marine,Niger trigger,Odonus niger
+559,marine,Picasso trigger,Rhinecanthus aculeatus
+560,marine,Pinktail trigger,Melichthys vidua
+561,marine,Queen trigger,Balistes vetula
+562,marine,Rectangular trigger,Rhinecanthus rectangulus
+563,marine,Sargassum trigger,Xanthichthys ringens
+564,marine,Starry trigger,Abalistes stellatus
+565,marine,Titan trigger,Balistoides viridescens
+566,marine,Undulated trigger,Balistapus undulatus
+567,marine,Whitetail trigger,Sufflamen albicaudatum
+568,marine,Banana wrasse,Thalassoma lutescens
+569,marine,Bicolor cleaner wrasse,Labroides bicolor
+570,marine,Bird wrasse,Gomphosus varius
+571,marine,Bluehead wrasse,Thalassoma bifasciatum
+572,marine,Bluestreak cleaner wrasse,Labroides dimidiatus
+573,marine,Carpenter's flasher wrasse,Paracheilinus carpenteri
+574,marine,Cheeklined maori wrasse,Cheilinus diagrammus
+575,marine,Christmas wrasse,Thalassoma trilobatum
+576,marine,Cortez rainbow wrasse,Thalassoma lucasanum
+577,marine,Dragon wrasse,Novaculichthys taeniourus
+578,marine,Eight line wrasse,Pseudocheilinus octotaenia
+579,marine,Exquisite fairy wrasse,Cirrhilabrus exquisitus
+580,marine,Fine-spotted fairy wrasse,Cirrhilabrus punctatus
+581,marine,Flame wrasse,Cirrhilabrus jordani
+582,marine,Formosa wrasse,Coris formosa
+583,marine,Four line wrasse,Pseudocheilinus tetrataenia
+584,marine,Goldbar wrasse,Thalassoma hebraicum
+585,marine,Greenback fairy wrasse,Cirrhilabrus scottorum
+586,marine,Harlequin tusk,Choerodon fasciatus
+587,marine,Hawaiian cleaner wrasse,Labroides phthirophagus
+588,marine,Hoeven's wrasse,Halichoeres melanurus
+589,marine,Jansen saddle wrasse,Thalassoma jansenii
+590,marine,Labout's fairy wrasse,Cirrhilabrus laboutei
+591,marine,Leopard wrasse,Macropharyngodon meleagris
+592,marine,Lineatus fairy wrasse,Cirrhilabrus lineatus
+593,marine,Longfin fairy wrasse,Cirrhilabrus rubriventralis
+594,marine,Lyretail wrasse/Moon wrasse,Thalassoma lunare
+595,marine,Marble wrasse,Halichoeres hortulanus
+596,marine,McCosker's flasher wrasse,Paracheilinus mccoskeri
+597,marine,Multicolor lubbock's wrasse,Cirrhilabrus lubbocki
+598,marine,Multicolor velvet wrasse,Cirrhilabrus cyanopleura
+599,marine,Mystery wrasse,Pseudocheilinus ocellatus
+600,marine,Orange-back fairy wrasse,Cirrhilabrus aurantidorsalis
+601,marine,Pastel-green wrasse,Halichoeres chloropterus
+602,marine,Pinkface wrasse,Thalassoma quinquevittatum
+603,marine,Potter's wrasse,Macropharyngodon geoffroyi
+604,marine,Red coris wrasse,Coris gaimard
+605,marine,Red-head fairy wrasse,Cirrhilabrus solorensis
+606,marine,Red velvet wrasse,Cirrhilabrus rubrisquamis
+607,marine,Scarlet pin stripe wrasse,Pseudocheilinus evanidus
+608,marine,Six line wrasse,Pseudocheilinus hexataenia
+609,marine,Radiant wrasse,Halichoeres iridis
+610,marine,Rhomboid fairy wrasse,Cirrhilabrus rhomboidalis
+611,marine,Whip fin fairy wrasse,Cirrhilabrus filamentosus
+612,marine,Yellow wrasse,Halichoeres chrysus
+613,marine,Yellow & purple wrasse,Halichoeres trispilus
+614,marine,Yellowband wrasse,Cirrhilabrus luteovittatus
+615,marine,Yellow fin fairy wrasse,Cirrhilabrus flavidorsalis
+616,marine,Yellow-flanked fairy wrasse,Cirrhilabrus lyukyuensis
